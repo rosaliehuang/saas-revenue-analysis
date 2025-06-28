@@ -1,0 +1,1111 @@
+creator_id,product,order_type,order_date,order_value,niche
+creator_2,E-book,renewal,2023-11-01,45.49,Wellness
+creator_8,1-on-1 Coaching,new,2024-06-01,46.34,Business
+creator_18,1-on-1 Coaching,new,2023-08-01,60.35,Fitness
+creator_11,1-on-1 Coaching,new,2023-10-01,43.95,Finance
+creator_18,Template Pack,new,2023-04-01,46.56,Finance
+creator_3,Template Pack,new,2023-04-01,64.79,Productivity
+creator_11,E-book,upsell,2023-01-01,39.38,Wellness
+creator_8,Template Pack,upsell,2024-02-01,43.28,Wellness
+creator_6,E-book,upsell,2023-08-01,unknown,Beauty/Lifestyle
+creator_17,Online Course,upsell,2023-03-01,38.33,Business
+creator_17,E-book,new,2023-09-01,49.19,Business
+creator_12,Membership,renewal,2024-02-01,25.97,Wellness
+creator_15,1-on-1 Coaching,new,2024-05-01,37.62,Finance
+creator_8,Membership,new,2023-05-01,76.38,Finance
+creator_17,1-on-1 Coaching,new,2023-07-01,57.23,Business
+creator_19,Membership,new,2023-07-01,44.37,Finance
+creator_4,Online Course,renewal,2024-06-01,39.32,Beauty/Lifestyle
+creator_3,Membership,renewal,2023-04-01,31.23,Finance
+creator_12,E-book,new,2023-12-01,58.3,Career
+creator_6,E-book,upsell,2023-11-01,56.92,Fitness
+creator_13,Online Course,upsell,2024-03-01,26.79,Business
+creator_15,1-on-1 Coaching,renewal,2023-12-01,8.89,Productivity
+creator_8,1-on-1 Coaching,new,2024-03-01,57.34,Beauty/Lifestyle
+creator_3,Template Pack,new,2023-09-01,68.94,Personal Development
+creator_8,Membership,upsell,2023-03-01,42.74,Fitness
+creator_18,Online Course,renewal,2024-05-01,-3.29,Productivity
+creator_20,1-on-1 Coaching,renewal,2023-05-01,unknown,Finance
+creator_3,1-on-1 Coaching,new,2023-07-01,38.41,Personal Development
+creator_18,E-book,renewal,2024-01-01,unknown,Wellness
+creator_20,Online Course,upsell,2023-01-01,18.67,Wellness
+creator_9,Template Pack,new,2023-12-01,35.9,Beauty/Lifestyle
+creator_2,Online Course,new,2023-04-01,47.84,Wellness
+creator_10,1-on-1 Coaching,new,2023-07-01,69.72,Personal Development
+creator_10,E-book,new,2023-06-01,49.78,Personal Development
+creator_16,Online Course,renewal,2023-04-01,36.06,Fitness
+creator_14,Template Pack,upsell,2023-07-01,16.66,Business
+creator_1,Membership,upsell,2023-05-01,51.65,Career
+creator_11,Template Pack,renewal,2024-02-01,27.05,Wellness
+creator_4,Template Pack,upsell,2023-09-01,32.53,Beauty/Lifestyle
+creator_1,Template Pack,renewal,2023-09-01,46.62,Wellness
+creator_9,Online Course,new,2023-06-01,88.4,Fitness
+creator_20,Template Pack,renewal,2024-06-01,25.23,Personal Development
+creator_16,Online Course,upsell,2023-12-01,58.27,Finance
+creator_18,Template Pack,new,2024-04-01,48.79,Wellness
+creator_1,1-on-1 Coaching,new,2023-09-01,56.79,Business
+creator_20,Membership,upsell,2024-01-01,2.39,Finance
+creator_3,1-on-1 Coaching,new,2023-10-01,58.41,Fitness
+creator_16,1-on-1 Coaching,new,2023-11-01,31.23,Wellness
+creator_11,E-book,new,2023-12-01,60.64,Finance
+creator_12,E-book,new,2024-02-01,41.35,Wellness
+creator_8,Template Pack,upsell,2024-02-01,37.04,Beauty/Lifestyle
+creator_3,,upsell,2024-03-01,15.69,Fitness
+creator_4,Online Course,upsell,2023-09-01,32.77,Career
+creator_18,Online Course,new,2023-07-01,54.63,Personal Development
+creator_20,E-book,renewal,2024-05-01,3.9,Productivity
+creator_12,E-book,renewal,2023-01-01,15.08,Personal Development
+creator_4,,renewal,2024-05-01,53.24,Personal Development
+creator_14,Template Pack,new,2023-04-01,50.76,Finance
+creator_1,1-on-1 Coaching,renewal,2024-02-01,22.01,Fitness
+creator_5,E-book,new,2024-05-01,56.59,Wellness
+creator_4,Membership,renewal,2024-01-01,32.77,Productivity
+creator_12,Template Pack,upsell,2024-05-01,41.3,Finance
+creator_2,Online Course,upsell,2024-01-01,29.51,Productivity
+creator_11,Membership,upsell,2023-02-01,42.27,Career
+creator_1,Template Pack,renewal,2023-01-01,39.07,Beauty/Lifestyle
+creator_6,E-book,renewal,2023-10-01,22.92,Fitness
+creator_14,Membership,renewal,2023-02-01,15.32,Finance
+creator_17,1-on-1 Coaching,new,2023-10-01,48.28,Personal Development
+creator_4,Online Course,new,2023-02-01,31.79,Business
+creator_6,1-on-1 Coaching,upsell,2023-09-01,48.54,Finance
+creator_16,1-on-1 Coaching,renewal,2024-04-01,52.2,Business
+creator_10,E-book,renewal,2023-01-01,29.32,Personal Development
+creator_4,E-book,new,2023-08-01,68.02,Beauty/Lifestyle
+creator_20,Membership,new,2023-07-01,54.53,Fitness
+creator_10,Template Pack,renewal,2024-06-01,45.09,Wellness
+creator_15,Online Course,upsell,2024-04-01,39.49,Finance
+creator_2,,new,2023-05-01,37.12,Personal Development
+creator_20,Membership,renewal,2023-06-01,40.09,Finance
+creator_7,1-on-1 Coaching,renewal,2023-02-01,33.41,Career
+creator_6,Online Course,renewal,2023-12-01,46.86,Beauty/Lifestyle
+creator_5,Template Pack,renewal,2024-06-01,43.56,Career
+creator_6,1-on-1 Coaching,new,2024-04-01,59.1,Productivity
+creator_15,E-book,new,2023-03-01,57.7,Fitness
+creator_10,E-book,renewal,2023-12-01,33.94,Productivity
+creator_6,1-on-1 Coaching,new,2023-09-01,72.51,Finance
+creator_18,Online Course,renewal,2023-07-01,31.39,Fitness
+creator_15,Template Pack,renewal,2024-04-01,35.51,Beauty/Lifestyle
+creator_19,Template Pack,upsell,2024-05-01,53.66,Beauty/Lifestyle
+creator_2,Membership,new,2024-06-01,33.91,Personal Development
+creator_8,Template Pack,upsell,2023-11-01,23.32,Finance
+creator_8,Online Course,renewal,2023-05-01,33.76,Productivity
+creator_19,E-book,renewal,2023-04-01,44.21,Career
+creator_4,E-book,renewal,2023-03-01,36.44,Wellness
+creator_16,Template Pack,renewal,2023-11-01,30.08,Business
+creator_6,Online Course,upsell,2023-04-01,26.48,Wellness
+creator_1,Membership,upsell,2023-12-01,37.71,Productivity
+creator_20,E-book,renewal,2023-12-01,11.61,Productivity
+creator_3,Online Course,upsell,2023-09-01,47.91,Beauty/Lifestyle
+creator_20,,renewal,2023-04-01,53.69,Wellness
+creator_20,1-on-1 Coaching,renewal,2023-10-01,11.48,Beauty/Lifestyle
+creator_6,1-on-1 Coaching,new,2024-02-01,45.95,Beauty/Lifestyle
+creator_3,1-on-1 Coaching,renewal,2023-09-01,26.63,Career
+creator_5,1-on-1 Coaching,new,2023-03-01,49.17,Fitness
+creator_20,Online Course,upsell,2023-10-01,27.93,Business
+creator_4,Template Pack,upsell,2023-11-01,49.18,Wellness
+creator_20,Online Course,new,2023-06-01,39.28,Fitness
+creator_19,E-book,renewal,2024-05-01,54.18,Personal Development
+creator_8,Template Pack,upsell,2023-10-01,9.01,Wellness
+creator_6,Template Pack,upsell,2024-05-01,36.95,Fitness
+creator_16,E-book,upsell,2024-04-01,39.94,Beauty/Lifestyle
+creator_1,E-book,new,2023-08-01,40.91,Productivity
+creator_17,Template Pack,new,2024-03-01,40.82,Career
+creator_19,Membership,new,2023-07-01,73.92,Business
+creator_3,E-book,new,2023-02-01,52.8,Fitness
+creator_16,Online Course,upsell,2024-06-01,unknown,Productivity
+creator_14,1-on-1 Coaching,new,2023-11-01,67.69,Wellness
+creator_17,Template Pack,renewal,2023-02-01,61.34,Fitness
+creator_4,Membership,renewal,2024-06-01,43.73,Finance
+creator_5,,upsell,2023-05-01,18.33,Productivity
+creator_14,Template Pack,renewal,2023-05-01,6.21,Personal Development
+creator_10,E-book,upsell,2024-01-01,6.35,Productivity
+creator_9,Online Course,new,2024-01-01,29.83,Business
+creator_17,Online Course,renewal,2023-07-01,17.5,Personal Development
+creator_20,Template Pack,renewal,2023-10-01,22.74,Career
+creator_6,Membership,new,2023-08-01,58.27,Business
+creator_2,E-book,new,2023-02-01,66.29,Wellness
+creator_20,Membership,new,2023-10-01,64.63,Personal Development
+creator_20,Membership,upsell,2024-02-01,13.25,Fitness
+creator_5,1-on-1 Coaching,new,2023-01-01,22.54,Finance
+creator_3,E-book,renewal,2023-05-01,20.99,Business
+creator_5,Template Pack,new,2023-07-01,64.76,Finance
+creator_4,1-on-1 Coaching,new,2023-03-01,55.11,Wellness
+creator_6,Online Course,new,2023-07-01,36.63,Wellness
+creator_19,,upsell,2024-01-01,-7.49,Career
+creator_16,Membership,renewal,2023-07-01,46.09,Wellness
+creator_6,E-book,renewal,2023-06-01,40.84,Productivity
+creator_12,Membership,new,2024-02-01,48.19,Productivity
+creator_8,1-on-1 Coaching,upsell,2023-08-01,7.15,Career
+creator_12,E-book,renewal,2023-05-01,37.84,Productivity
+creator_11,E-book,new,2023-01-01,51.57,Fitness
+creator_5,Template Pack,upsell,2023-05-01,43.07,Beauty/Lifestyle
+creator_7,1-on-1 Coaching,renewal,2024-05-01,47.89,Finance
+creator_17,Template Pack,upsell,2024-06-01,32.93,Finance
+creator_9,1-on-1 Coaching,new,2023-09-01,unknown,Fitness
+creator_9,Membership,upsell,2023-02-01,31.47,Beauty/Lifestyle
+creator_20,E-book,new,2023-02-01,33.72,Personal Development
+creator_4,1-on-1 Coaching,new,2024-01-01,42.13,Career
+creator_7,1-on-1 Coaching,new,2024-04-01,46.38,Career
+creator_1,1-on-1 Coaching,upsell,2023-09-01,10.81,Wellness
+creator_4,E-book,new,2023-04-01,72.17,Finance
+creator_12,E-book,upsell,2024-05-01,25.73,Finance
+creator_8,Template Pack,upsell,2024-02-01,26.68,Wellness
+creator_18,,renewal,2023-03-01,30.45,Personal Development
+creator_10,1-on-1 Coaching,renewal,2023-08-01,19.77,Business
+creator_1,Membership,renewal,2023-08-01,35.0,Finance
+creator_12,Membership,upsell,2023-11-01,30.1,Finance
+creator_13,E-book,renewal,2024-01-01,22.23,Business
+creator_9,E-book,new,2024-02-01,45.85,Wellness
+creator_7,E-book,upsell,2023-04-01,51.8,Business
+creator_17,Membership,upsell,2023-05-01,43.82,Finance
+creator_12,1-on-1 Coaching,renewal,2023-01-01,33.98,Wellness
+creator_14,E-book,renewal,2023-03-01,42.17,Business
+creator_20,,new,2024-01-01,62.94,Personal Development
+creator_11,1-on-1 Coaching,renewal,2024-02-01,15.97,Wellness
+creator_17,1-on-1 Coaching,upsell,2024-04-01,14.81,Finance
+creator_17,E-book,new,2023-09-01,51.11,Fitness
+creator_5,Online Course,renewal,2023-02-01,3.62,Career
+creator_4,Membership,new,2023-09-01,71.34,Finance
+creator_4,E-book,upsell,2023-07-01,unknown,Productivity
+creator_4,E-book,new,2024-01-01,40.98,Career
+creator_2,Template Pack,renewal,2023-02-01,38.93,Finance
+creator_13,1-on-1 Coaching,upsell,2023-08-01,37.45,Career
+creator_20,1-on-1 Coaching,renewal,2023-01-01,unknown,Beauty/Lifestyle
+creator_17,Template Pack,upsell,2023-12-01,30.21,Finance
+creator_9,E-book,renewal,2023-12-01,26.54,Wellness
+creator_7,Membership,upsell,2024-05-01,49.76,Wellness
+creator_10,Membership,new,2023-03-01,49.59,Beauty/Lifestyle
+creator_3,Online Course,upsell,2023-10-01,26.8,Personal Development
+creator_18,E-book,upsell,2023-06-01,28.91,Beauty/Lifestyle
+creator_9,1-on-1 Coaching,new,2024-02-01,54.71,Beauty/Lifestyle
+creator_2,Template Pack,new,2024-06-01,57.73,Career
+creator_1,Membership,renewal,2023-07-01,37.19,Business
+creator_16,Online Course,renewal,2024-02-01,23.69,Wellness
+creator_9,E-book,renewal,2024-02-01,unknown,Business
+creator_15,Online Course,renewal,2023-05-01,23.6,Beauty/Lifestyle
+creator_17,Membership,new,2023-06-01,35.02,Personal Development
+creator_17,1-on-1 Coaching,new,2023-04-01,54.24,Wellness
+creator_4,Online Course,renewal,2023-08-01,6.66,Finance
+creator_20,Membership,upsell,2024-04-01,29.77,Finance
+creator_19,Template Pack,renewal,2024-01-01,54.43,Finance
+creator_10,Online Course,upsell,2023-12-01,10.62,Career
+creator_19,Membership,renewal,2024-03-01,15.21,Productivity
+creator_10,Online Course,upsell,2023-01-01,40.78,Beauty/Lifestyle
+creator_2,Membership,new,2023-09-01,55.37,Productivity
+creator_18,,new,2024-02-01,46.29,Fitness
+creator_15,E-book,new,2024-03-01,51.05,Career
+creator_2,Membership,new,2024-01-01,68.57,Finance
+creator_8,1-on-1 Coaching,new,2023-03-01,48.51,Wellness
+creator_16,1-on-1 Coaching,upsell,2024-03-01,-15.29,Career
+creator_20,Template Pack,new,2023-03-01,47.6,Wellness
+creator_10,Membership,new,2024-02-01,25.9,Business
+creator_15,1-on-1 Coaching,renewal,2023-04-01,19.47,Business
+creator_14,E-book,new,2023-12-01,36.8,Wellness
+creator_19,Membership,new,2023-12-01,31.69,Finance
+creator_4,Template Pack,renewal,2024-01-01,51.73,Productivity
+creator_9,Membership,new,2023-11-01,76.48,Beauty/Lifestyle
+creator_9,Template Pack,new,2024-01-01,34.02,Career
+creator_14,Online Course,renewal,2023-03-01,35.08,Career
+creator_18,Membership,new,2024-04-01,67.23,Finance
+creator_14,Template Pack,renewal,2023-03-01,55.43,Beauty/Lifestyle
+creator_9,1-on-1 Coaching,renewal,2023-11-01,23.12,Business
+creator_14,Membership,new,2024-01-01,49.44,Productivity
+creator_1,Membership,renewal,2024-06-01,44.64,Beauty/Lifestyle
+creator_13,Membership,upsell,2024-05-01,34.97,Business
+creator_11,E-book,new,2024-02-01,30.03,Beauty/Lifestyle
+creator_7,Online Course,new,2024-02-01,12.93,Fitness
+creator_11,1-on-1 Coaching,renewal,2023-07-01,27.48,Career
+creator_14,E-book,new,2024-01-01,40.23,Fitness
+creator_17,Template Pack,new,2024-04-01,63.31,Beauty/Lifestyle
+creator_16,Membership,new,2024-04-01,52.76,Career
+creator_14,E-book,renewal,2024-04-01,32.63,Productivity
+creator_14,Online Course,renewal,2024-02-01,7.12,Finance
+creator_16,Online Course,new,2023-02-01,unknown,Fitness
+creator_18,Membership,new,2024-01-01,49.05,Finance
+creator_10,Online Course,new,2023-10-01,35.4,Business
+creator_6,E-book,renewal,2023-01-01,48.0,Business
+creator_19,Template Pack,renewal,2023-03-01,9.79,Personal Development
+creator_12,,upsell,2023-06-01,25.26,Business
+creator_5,Membership,upsell,2023-09-01,45.6,Business
+creator_17,1-on-1 Coaching,upsell,2023-12-01,38.83,Career
+creator_15,E-book,renewal,2024-04-01,6.44,Productivity
+creator_14,Membership,new,2023-09-01,47.05,Business
+creator_8,Template Pack,new,2023-02-01,57.51,Wellness
+creator_16,E-book,new,2023-08-01,63.7,Productivity
+creator_13,Online Course,new,2023-04-01,67.81,Wellness
+creator_14,Template Pack,upsell,2023-01-01,44.88,Wellness
+creator_20,,renewal,2023-04-01,53.69,Finance
+creator_18,Membership,new,2023-02-01,33.78,Beauty/Lifestyle
+creator_12,1-on-1 Coaching,upsell,2024-03-01,27.49,Wellness
+creator_17,1-on-1 Coaching,renewal,2024-01-01,29.69,Finance
+creator_3,Template Pack,new,2023-05-01,34.07,Business
+creator_7,E-book,new,2023-04-01,26.69,Wellness
+creator_16,Membership,new,2023-08-01,65.98,Beauty/Lifestyle
+creator_9,Template Pack,new,2023-09-01,40.13,Personal Development
+creator_10,Membership,new,2023-06-01,35.32,Fitness
+creator_5,,new,2024-02-01,64.04,Finance
+creator_13,Online Course,new,2023-04-01,57.84,Personal Development
+creator_13,Membership,renewal,2024-02-01,10.2,Finance
+creator_13,1-on-1 Coaching,new,2024-01-01,37.76,Fitness
+creator_8,,renewal,2024-03-01,34.4,Beauty/Lifestyle
+creator_7,E-book,upsell,2023-09-01,56.33,Productivity
+creator_17,Template Pack,renewal,2024-03-01,30.01,Fitness
+creator_17,1-on-1 Coaching,upsell,2024-04-01,14.81,Career
+creator_10,E-book,new,2024-04-01,43.05,Personal Development
+creator_7,Membership,upsell,2023-10-01,unknown,Wellness
+creator_15,1-on-1 Coaching,upsell,2023-02-01,31.76,Business
+creator_16,E-book,upsell,2024-02-01,40.47,Career
+creator_7,,upsell,2024-05-01,17.25,Wellness
+creator_3,E-book,new,2024-02-01,47.99,Wellness
+creator_16,Online Course,upsell,2024-06-01,41.51,Finance
+creator_15,Online Course,upsell,2023-01-01,25.36,Fitness
+creator_4,Online Course,renewal,2023-07-01,17.27,Productivity
+creator_18,Template Pack,renewal,2023-01-01,20.99,Personal Development
+creator_10,Template Pack,renewal,2024-05-01,27.16,Wellness
+creator_2,,renewal,2023-05-01,unknown,Finance
+creator_16,Template Pack,new,2023-08-01,24.96,Personal Development
+creator_4,Online Course,upsell,2024-05-01,47.59,Fitness
+creator_5,Membership,renewal,2023-02-01,7.26,Productivity
+creator_19,Template Pack,upsell,2024-06-01,-1.23,Career
+creator_10,Template Pack,upsell,2023-01-01,19.64,Fitness
+creator_8,1-on-1 Coaching,new,2023-02-01,65.26,Business
+creator_12,E-book,upsell,2024-04-01,16.74,Fitness
+creator_5,1-on-1 Coaching,new,2023-12-01,44.46,Wellness
+creator_11,Membership,new,2023-09-01,53.83,Productivity
+creator_6,1-on-1 Coaching,upsell,2023-03-01,52.44,Fitness
+creator_9,1-on-1 Coaching,new,2023-01-01,58.44,Wellness
+creator_14,Template Pack,renewal,2023-10-01,24.12,Wellness
+creator_18,E-book,renewal,2024-05-01,unknown,Productivity
+creator_1,E-book,renewal,2024-02-01,48.42,Fitness
+creator_1,1-on-1 Coaching,new,2023-02-01,57.1,Fitness
+creator_6,Online Course,upsell,2023-03-01,26.45,Finance
+creator_13,1-on-1 Coaching,new,2023-07-01,29.81,Personal Development
+creator_13,Online Course,upsell,2023-12-01,5.35,Finance
+creator_11,Template Pack,new,2023-12-01,39.9,Fitness
+creator_14,Template Pack,upsell,2024-01-01,-8.87,Career
+creator_7,Membership,renewal,2023-03-01,41.62,Fitness
+creator_19,E-book,new,2023-11-01,39.43,Business
+creator_2,E-book,upsell,2023-02-01,29.35,Wellness
+creator_12,Online Course,upsell,2023-09-01,54.59,Beauty/Lifestyle
+creator_17,E-book,new,2024-04-01,59.68,Fitness
+creator_6,E-book,new,2024-04-01,57.47,Business
+creator_18,E-book,renewal,2023-03-01,12.16,Business
+creator_1,Online Course,renewal,2023-02-01,40.23,Personal Development
+creator_1,Online Course,upsell,2024-03-01,unknown,Productivity
+creator_19,Online Course,renewal,2023-10-01,29.25,Fitness
+creator_19,E-book,renewal,2024-05-01,26.49,Productivity
+creator_13,,renewal,2023-02-01,21.35,Career
+creator_11,,new,2024-02-01,70.5,Beauty/Lifestyle
+creator_16,Online Course,upsell,2023-10-01,33.67,Business
+creator_12,Membership,renewal,2023-03-01,13.99,Wellness
+creator_11,E-book,renewal,2023-07-01,27.28,Wellness
+creator_8,Membership,upsell,2023-03-01,31.31,Productivity
+creator_19,1-on-1 Coaching,upsell,2024-01-01,32.76,Business
+creator_3,Template Pack,new,2023-03-01,46.35,Personal Development
+creator_17,Online Course,upsell,2024-03-01,31.23,Productivity
+creator_1,Membership,new,2023-08-01,35.54,Beauty/Lifestyle
+creator_4,1-on-1 Coaching,renewal,2024-05-01,35.1,Productivity
+creator_2,1-on-1 Coaching,renewal,2023-04-01,7.55,Business
+creator_3,1-on-1 Coaching,upsell,2023-12-01,32.95,Fitness
+creator_2,E-book,renewal,2024-01-01,24.22,Personal Development
+creator_10,Template Pack,upsell,2023-10-01,33.01,Business
+creator_20,Template Pack,new,2023-11-01,46.65,Personal Development
+creator_3,Template Pack,renewal,2023-11-01,19.55,Finance
+creator_6,,renewal,2023-10-01,53.6,Finance
+creator_5,Membership,upsell,2023-07-01,21.53,Wellness
+creator_1,Template Pack,new,2023-04-01,43.3,Personal Development
+creator_10,Online Course,renewal,2024-02-01,35.14,Beauty/Lifestyle
+creator_16,1-on-1 Coaching,upsell,2023-06-01,52.7,Productivity
+creator_18,Online Course,new,2023-04-01,39.98,Finance
+creator_3,Membership,upsell,2023-07-01,27.78,Productivity
+creator_4,Template Pack,new,2023-12-01,32.87,Productivity
+creator_20,1-on-1 Coaching,renewal,2024-02-01,20.23,Beauty/Lifestyle
+creator_18,Template Pack,new,2024-05-01,67.52,Business
+creator_9,1-on-1 Coaching,new,2023-05-01,29.42,Productivity
+creator_7,1-on-1 Coaching,upsell,2024-02-01,48.2,Personal Development
+creator_13,,new,2023-06-01,unknown,Beauty/Lifestyle
+creator_13,1-on-1 Coaching,upsell,2023-08-01,44.48,Finance
+creator_4,Online Course,new,2024-05-01,81.15,Fitness
+creator_7,1-on-1 Coaching,renewal,2023-09-01,8.28,Productivity
+creator_2,Online Course,new,2023-03-01,49.64,Wellness
+creator_12,Membership,renewal,2023-10-01,37.66,Beauty/Lifestyle
+creator_19,1-on-1 Coaching,new,2024-05-01,unknown,Business
+creator_12,Online Course,new,2024-06-01,64.63,Career
+creator_20,,new,2023-11-01,32.84,Finance
+creator_18,Template Pack,upsell,2024-03-01,34.45,Finance
+creator_15,Template Pack,renewal,2023-04-01,28.81,Career
+creator_11,Membership,new,2023-02-01,29.34,Personal Development
+creator_4,E-book,new,2023-02-01,70.62,Fitness
+creator_13,E-book,upsell,2024-02-01,6.97,Finance
+creator_18,E-book,upsell,2023-11-01,27.11,Finance
+creator_15,Template Pack,upsell,2023-10-01,22.38,Business
+creator_13,E-book,upsell,2023-04-01,20.64,Finance
+creator_10,1-on-1 Coaching,upsell,2023-10-01,42.79,Beauty/Lifestyle
+creator_20,Online Course,upsell,2024-05-01,46.05,Personal Development
+creator_2,1-on-1 Coaching,renewal,2023-01-01,29.5,Fitness
+creator_7,,new,2024-06-01,34.75,Wellness
+creator_14,Membership,new,2024-03-01,38.63,Fitness
+creator_18,1-on-1 Coaching,renewal,2024-02-01,-9.76,Personal Development
+creator_6,Membership,new,2024-04-01,56.07,Beauty/Lifestyle
+creator_4,,upsell,2024-06-01,30.43,Personal Development
+creator_14,E-book,upsell,2023-11-01,31.01,Business
+creator_1,E-book,renewal,2023-08-01,45.88,Wellness
+creator_11,E-book,new,2023-12-01,46.86,Fitness
+creator_13,E-book,renewal,2023-05-01,21.39,Productivity
+creator_15,Template Pack,new,2023-04-01,40.8,Fitness
+creator_14,Template Pack,upsell,2024-04-01,41.28,Business
+creator_7,Membership,upsell,2024-06-01,23.01,Wellness
+creator_8,Online Course,upsell,2024-03-01,21.57,Beauty/Lifestyle
+creator_19,,new,2024-04-01,43.98,Personal Development
+creator_2,Template Pack,new,2023-02-01,41.04,Personal Development
+creator_18,1-on-1 Coaching,renewal,2023-07-01,24.45,Beauty/Lifestyle
+creator_11,Online Course,new,2024-05-01,47.14,Wellness
+creator_14,Template Pack,renewal,2023-05-01,15.28,Beauty/Lifestyle
+creator_19,1-on-1 Coaching,upsell,2024-05-01,23.11,Finance
+creator_6,1-on-1 Coaching,new,2024-03-01,57.22,Fitness
+creator_10,E-book,renewal,2024-02-01,-9.54,Business
+creator_17,Template Pack,renewal,2024-06-01,40.2,Beauty/Lifestyle
+creator_1,,upsell,2023-02-01,28.78,Business
+creator_1,Online Course,renewal,2024-05-01,34.86,Finance
+creator_3,Template Pack,renewal,2023-02-01,53.48,Personal Development
+creator_12,Template Pack,upsell,2024-04-01,44.26,Beauty/Lifestyle
+creator_14,E-book,new,2023-05-01,69.92,Wellness
+creator_3,Membership,upsell,2023-03-01,54.26,Personal Development
+creator_15,1-on-1 Coaching,renewal,2024-05-01,19.2,Personal Development
+creator_7,E-book,renewal,2023-02-01,30.48,Wellness
+creator_9,Template Pack,renewal,2024-01-01,39.78,Fitness
+creator_1,Online Course,new,2023-11-01,84.36,Fitness
+creator_15,Template Pack,new,2024-06-01,66.89,Beauty/Lifestyle
+creator_15,1-on-1 Coaching,renewal,2023-09-01,41.19,Personal Development
+creator_18,1-on-1 Coaching,upsell,2023-06-01,7.45,Beauty/Lifestyle
+creator_18,Membership,new,2023-04-01,49.82,Fitness
+creator_10,1-on-1 Coaching,renewal,2023-01-01,41.33,Productivity
+creator_3,Template Pack,upsell,2023-10-01,35.47,Finance
+creator_1,Online Course,renewal,2023-06-01,34.16,Beauty/Lifestyle
+creator_9,Membership,upsell,2024-06-01,25.09,Beauty/Lifestyle
+creator_19,1-on-1 Coaching,renewal,2023-11-01,18.56,Productivity
+creator_14,E-book,upsell,2024-06-01,37.39,Fitness
+creator_1,E-book,upsell,2023-09-01,51.29,Beauty/Lifestyle
+creator_11,1-on-1 Coaching,renewal,2023-07-01,44.54,Business
+creator_2,Template Pack,upsell,2023-09-01,-9.06,Fitness
+creator_10,E-book,new,2023-10-01,38.05,Fitness
+creator_11,1-on-1 Coaching,upsell,2023-03-01,43.92,Finance
+creator_19,E-book,upsell,2024-05-01,33.74,Beauty/Lifestyle
+creator_10,Template Pack,upsell,2023-06-01,36.55,Personal Development
+creator_10,Membership,new,2024-04-01,31.43,Career
+creator_14,1-on-1 Coaching,new,2023-04-01,59.61,Career
+creator_6,Template Pack,renewal,2023-10-01,42.44,Career
+creator_20,1-on-1 Coaching,new,2023-06-01,43.3,Finance
+creator_8,E-book,upsell,2023-11-01,13.99,Career
+creator_5,Template Pack,new,2023-12-01,44.18,Productivity
+creator_16,Online Course,upsell,2023-12-01,-7.94,Wellness
+creator_12,Membership,upsell,2023-08-01,36.66,Fitness
+creator_15,1-on-1 Coaching,renewal,2024-06-01,44.3,Personal Development
+creator_1,Template Pack,renewal,2024-01-01,41.08,Wellness
+creator_11,1-on-1 Coaching,renewal,2024-02-01,0.5,Finance
+creator_16,E-book,upsell,2023-03-01,5.8,Fitness
+creator_20,Template Pack,new,2023-06-01,52.31,Finance
+creator_18,1-on-1 Coaching,upsell,2023-11-01,33.9,Finance
+creator_7,Online Course,renewal,2023-01-01,27.09,Productivity
+creator_8,E-book,upsell,2024-05-01,24.64,Business
+creator_4,1-on-1 Coaching,renewal,2024-04-01,55.26,Business
+creator_14,Template Pack,renewal,2023-03-01,4.97,Finance
+creator_4,Template Pack,new,2023-05-01,33.1,Career
+creator_18,E-book,new,2023-08-01,89.67,Wellness
+creator_8,Membership,renewal,2023-09-01,3.47,Career
+creator_13,Template Pack,renewal,2024-06-01,36.19,Beauty/Lifestyle
+creator_13,E-book,renewal,2023-10-01,22.69,Finance
+creator_7,Online Course,renewal,2023-05-01,27.58,Beauty/Lifestyle
+creator_2,Online Course,renewal,2023-04-01,26.91,Career
+creator_11,Membership,new,2023-05-01,60.05,Beauty/Lifestyle
+creator_20,1-on-1 Coaching,renewal,2023-08-01,55.15,Finance
+creator_10,1-on-1 Coaching,upsell,2023-03-01,32.2,Productivity
+creator_2,Online Course,renewal,2023-02-01,unknown,Business
+creator_7,Membership,upsell,2023-04-01,22.75,Wellness
+creator_10,E-book,renewal,2023-11-01,47.83,Beauty/Lifestyle
+creator_9,Template Pack,new,2023-01-01,47.45,Finance
+creator_12,1-on-1 Coaching,upsell,2023-07-01,20.56,Productivity
+creator_3,Membership,new,2024-03-01,59.33,Career
+creator_8,Template Pack,new,2023-09-01,53.11,Business
+creator_13,1-on-1 Coaching,upsell,2024-04-01,51.14,Finance
+creator_13,Membership,new,2023-10-01,50.96,Wellness
+creator_2,Template Pack,renewal,2023-04-01,30.7,Career
+creator_5,Membership,renewal,2023-02-01,76.65,Productivity
+creator_7,Membership,upsell,2023-05-01,21.44,Career
+creator_14,Online Course,upsell,2024-04-01,1.22,Personal Development
+creator_9,Membership,new,2023-04-01,70.46,Career
+creator_9,E-book,new,2023-08-01,29.49,Beauty/Lifestyle
+creator_14,Online Course,renewal,2024-03-01,32.98,Career
+creator_4,1-on-1 Coaching,renewal,2023-08-01,25.18,Productivity
+creator_1,Template Pack,new,2023-01-01,42.37,Career
+creator_4,Template Pack,upsell,2023-12-01,43.79,Career
+creator_18,Template Pack,renewal,2023-09-01,19.73,Fitness
+creator_5,Online Course,new,2023-06-01,50.51,Finance
+creator_20,1-on-1 Coaching,new,2023-07-01,30.58,Fitness
+creator_17,E-book,upsell,2024-06-01,29.01,Career
+creator_15,E-book,upsell,2023-04-01,29.6,Finance
+creator_1,Online Course,new,2023-09-01,53.65,Fitness
+creator_2,,new,2023-04-01,67.93,Career
+creator_11,E-book,new,2024-01-01,59.46,Wellness
+creator_17,Membership,new,2024-04-01,68.54,Fitness
+creator_13,E-book,new,2023-10-01,59.51,Finance
+creator_14,E-book,renewal,2023-01-01,38.73,Fitness
+creator_16,1-on-1 Coaching,upsell,2023-12-01,18.69,Personal Development
+creator_1,Template Pack,renewal,2024-04-01,49.07,Personal Development
+creator_11,Online Course,new,2023-11-01,41.07,Wellness
+creator_2,Membership,renewal,2024-04-01,32.69,Productivity
+creator_5,Membership,upsell,2023-02-01,6.28,Productivity
+creator_4,Online Course,new,2023-10-01,73.0,Finance
+creator_5,1-on-1 Coaching,renewal,2023-12-01,33.2,Beauty/Lifestyle
+creator_9,Membership,upsell,2024-03-01,47.03,Productivity
+creator_3,Template Pack,new,2024-06-01,40.35,Finance
+creator_15,Template Pack,renewal,2023-04-01,34.8,Wellness
+creator_8,Template Pack,upsell,2023-01-01,37.95,Beauty/Lifestyle
+creator_8,E-book,renewal,2023-07-01,21.27,Beauty/Lifestyle
+creator_16,Membership,upsell,2023-11-01,38.2,Personal Development
+creator_1,Online Course,upsell,2024-01-01,38.4,Career
+creator_6,Online Course,renewal,2023-02-01,16.12,Beauty/Lifestyle
+creator_2,Membership,renewal,2024-03-01,14.47,Business
+creator_16,Template Pack,new,2023-01-01,53.66,Finance
+creator_19,1-on-1 Coaching,renewal,2023-08-01,27.83,Beauty/Lifestyle
+creator_6,Template Pack,upsell,2024-04-01,11.34,Beauty/Lifestyle
+creator_18,Template Pack,new,2023-04-01,55.45,Business
+creator_4,1-on-1 Coaching,renewal,2023-06-01,26.98,Beauty/Lifestyle
+creator_9,Online Course,new,2023-02-01,48.5,Career
+creator_6,Template Pack,new,2023-09-01,50.65,Business
+creator_4,1-on-1 Coaching,new,2023-03-01,62.73,Personal Development
+creator_13,Template Pack,new,2023-08-01,60.5,Fitness
+creator_12,Template Pack,new,2023-12-01,38.01,Beauty/Lifestyle
+creator_4,Template Pack,upsell,2023-11-01,18.21,Beauty/Lifestyle
+creator_3,Membership,upsell,2023-05-01,35.54,Finance
+creator_11,E-book,new,2023-08-01,unknown,Career
+creator_9,Online Course,new,2023-11-01,41.85,Finance
+creator_14,1-on-1 Coaching,new,2023-06-01,unknown,Fitness
+creator_4,Membership,new,2023-04-01,unknown,Beauty/Lifestyle
+creator_5,E-book,upsell,2023-03-01,-6.36,Career
+creator_15,1-on-1 Coaching,upsell,2023-04-01,9.02,Business
+creator_14,E-book,renewal,2023-05-01,46.61,Beauty/Lifestyle
+creator_16,Online Course,upsell,2024-04-01,25.46,Personal Development
+creator_15,1-on-1 Coaching,new,2023-03-01,54.18,Beauty/Lifestyle
+creator_4,1-on-1 Coaching,renewal,2023-08-01,24.98,Productivity
+creator_6,Online Course,new,2023-09-01,42.24,Career
+creator_20,E-book,upsell,2024-02-01,63.16,Productivity
+creator_9,Template Pack,upsell,2024-05-01,57.7,Business
+creator_13,Template Pack,upsell,2023-04-01,47.47,Beauty/Lifestyle
+creator_3,Template Pack,upsell,2023-11-01,34.89,Business
+creator_16,1-on-1 Coaching,upsell,2023-11-01,22.14,Wellness
+creator_18,Membership,new,2023-12-01,57.57,Beauty/Lifestyle
+creator_10,Template Pack,upsell,2024-06-01,43.87,Productivity
+creator_12,Template Pack,renewal,2024-04-01,46.21,Career
+creator_12,Template Pack,new,2024-05-01,35.43,Productivity
+creator_15,Membership,renewal,2024-04-01,8.03,Business
+creator_19,Membership,upsell,2023-04-01,69.31,Fitness
+creator_1,E-book,renewal,2023-06-01,47.43,Beauty/Lifestyle
+creator_15,Membership,renewal,2023-06-01,39.88,Personal Development
+creator_11,E-book,upsell,2023-06-01,30.31,Finance
+creator_2,,upsell,2023-04-01,50.99,Career
+creator_13,Online Course,renewal,2023-07-01,42.81,Personal Development
+creator_9,Online Course,upsell,2024-06-01,5.81,Personal Development
+creator_4,Template Pack,upsell,2023-04-01,45.46,Beauty/Lifestyle
+creator_14,E-book,renewal,2024-05-01,47.86,Fitness
+creator_15,Online Course,new,2024-05-01,47.73,Beauty/Lifestyle
+creator_10,Online Course,new,2023-12-01,49.44,Fitness
+creator_14,Template Pack,upsell,2023-10-01,30.21,Wellness
+creator_13,,new,2023-07-01,52.57,Career
+creator_5,E-book,new,2023-08-01,50.19,Business
+creator_17,E-book,renewal,2023-12-01,20.88,Business
+creator_10,Online Course,renewal,2023-09-01,52.35,Personal Development
+creator_17,E-book,upsell,2023-02-01,25.18,Finance
+creator_20,E-book,new,2024-04-01,21.8,Wellness
+creator_18,Template Pack,new,2023-06-01,39.86,Business
+creator_10,Membership,new,2024-06-01,82.36,Business
+creator_17,Online Course,renewal,2024-01-01,28.39,Finance
+creator_13,E-book,new,2024-03-01,40.81,Finance
+creator_5,Membership,new,2023-09-01,57.5,Business
+creator_1,E-book,new,2023-06-01,58.65,Productivity
+creator_1,E-book,upsell,2024-05-01,18.7,Finance
+creator_18,Membership,upsell,2023-03-01,35.27,Productivity
+creator_5,1-on-1 Coaching,upsell,2023-12-01,39.57,Career
+creator_17,E-book,new,2024-01-01,52.2,Wellness
+creator_3,,new,2024-06-01,56.21,Finance
+creator_18,Template Pack,renewal,2024-03-01,34.85,Career
+creator_19,1-on-1 Coaching,new,2023-09-01,39.36,Fitness
+creator_1,Template Pack,renewal,2023-08-01,19.22,Personal Development
+creator_2,Template Pack,renewal,2023-07-01,56.56,Productivity
+creator_2,Membership,upsell,2023-09-01,20.74,Wellness
+creator_13,Template Pack,new,2024-06-01,35.91,Productivity
+creator_8,E-book,upsell,2023-04-01,42.16,Fitness
+creator_10,1-on-1 Coaching,new,2023-12-01,49.99,Wellness
+creator_20,Membership,new,2023-11-01,64.25,Business
+creator_14,E-book,upsell,2023-11-01,31.01,Fitness
+creator_19,1-on-1 Coaching,renewal,2023-06-01,17.88,Beauty/Lifestyle
+creator_13,1-on-1 Coaching,upsell,2023-03-01,46.58,Beauty/Lifestyle
+creator_18,,renewal,2024-01-01,32.29,Finance
+creator_18,Template Pack,new,2024-06-01,unknown,Wellness
+creator_16,Membership,renewal,2024-03-01,32.65,Finance
+creator_4,E-book,new,2023-10-01,66.36,Wellness
+creator_15,Online Course,upsell,2024-06-01,20.6,Fitness
+creator_8,E-book,renewal,2024-04-01,35.92,Wellness
+creator_6,Membership,upsell,2024-03-01,25.18,Business
+creator_20,Membership,new,2023-08-01,54.93,Personal Development
+creator_2,E-book,upsell,2024-03-01,23.45,Beauty/Lifestyle
+creator_18,E-book,new,2023-02-01,67.14,Personal Development
+creator_9,E-book,upsell,2023-01-01,31.02,Wellness
+creator_19,Membership,new,2023-09-01,37.08,Personal Development
+creator_1,E-book,renewal,2024-06-01,23.88,Business
+creator_18,Online Course,upsell,2023-10-01,45.01,Beauty/Lifestyle
+creator_7,Online Course,renewal,2023-08-01,20.22,Career
+creator_18,Template Pack,upsell,2023-06-01,32.94,Wellness
+creator_14,Online Course,renewal,2023-12-01,47.1,Beauty/Lifestyle
+creator_12,Online Course,renewal,2023-12-01,35.42,Personal Development
+creator_19,Online Course,renewal,2024-02-01,47.69,Career
+creator_17,Membership,upsell,2024-05-01,39.85,Productivity
+creator_3,Online Course,renewal,2024-03-01,45.46,Beauty/Lifestyle
+creator_13,Template Pack,new,2023-06-01,38.69,Productivity
+creator_15,1-on-1 Coaching,new,2023-01-01,34.4,Fitness
+creator_1,Template Pack,upsell,2024-05-01,20.47,Career
+creator_14,Template Pack,renewal,2023-08-01,18.5,Career
+creator_3,1-on-1 Coaching,new,2023-05-01,40.1,Beauty/Lifestyle
+creator_14,Membership,renewal,2023-04-01,36.3,Fitness
+creator_14,Template Pack,new,2023-02-01,61.69,Personal Development
+creator_18,1-on-1 Coaching,renewal,2024-05-01,28.05,Finance
+creator_16,Online Course,renewal,2024-03-01,32.17,Wellness
+creator_19,Membership,new,2023-03-01,33.94,Fitness
+creator_20,Membership,new,2023-06-01,52.96,Career
+creator_18,Online Course,renewal,2023-02-01,48.32,Finance
+creator_10,Template Pack,new,2023-02-01,42.63,Career
+creator_14,Template Pack,upsell,2023-03-01,13.83,Beauty/Lifestyle
+creator_17,Online Course,new,2024-06-01,72.36,Personal Development
+creator_18,Template Pack,renewal,2023-07-01,21.97,Business
+creator_20,E-book,upsell,2023-12-01,15.26,Career
+creator_3,Membership,new,2024-01-01,9.55,Personal Development
+creator_6,Template Pack,renewal,2024-02-01,30.05,Productivity
+creator_8,Online Course,new,2024-01-01,27.82,Career
+creator_5,Membership,upsell,2024-03-01,38.07,Finance
+creator_9,Online Course,new,2023-07-01,66.87,Personal Development
+creator_12,Template Pack,new,2024-04-01,45.62,Fitness
+creator_15,,new,2023-12-01,45.3,Personal Development
+creator_2,E-book,upsell,2024-02-01,8.89,Fitness
+creator_4,Online Course,new,2023-05-01,unknown,Fitness
+creator_9,Online Course,renewal,2024-04-01,30.11,Business
+creator_11,Online Course,upsell,2023-11-01,19.61,Finance
+creator_3,Template Pack,renewal,2024-04-01,20.65,Wellness
+creator_1,E-book,renewal,2023-03-01,25.06,Finance
+creator_6,Template Pack,new,2023-10-01,48.56,Beauty/Lifestyle
+creator_14,Membership,new,2023-08-01,59.31,Career
+creator_4,Template Pack,new,2024-03-01,57.7,Finance
+creator_15,Membership,upsell,2023-01-01,40.99,Career
+creator_13,1-on-1 Coaching,upsell,2023-08-01,37.45,Career
+creator_17,Template Pack,new,2023-06-01,37.29,Career
+creator_1,1-on-1 Coaching,upsell,2023-12-01,46.37,Business
+creator_4,E-book,upsell,2024-04-01,31.63,Wellness
+creator_17,Online Course,renewal,2023-07-01,38.53,Fitness
+creator_20,1-on-1 Coaching,upsell,2024-05-01,38.69,Finance
+creator_14,,new,2023-11-01,86.69,Beauty/Lifestyle
+creator_9,1-on-1 Coaching,new,2023-09-01,52.5,Finance
+creator_12,Membership,upsell,2023-04-01,25.17,Fitness
+creator_20,1-on-1 Coaching,upsell,2024-01-01,49.58,Personal Development
+creator_6,E-book,new,2023-07-01,49.64,Career
+creator_7,Membership,renewal,2023-04-01,39.72,Personal Development
+creator_6,Membership,renewal,2023-09-01,37.08,Beauty/Lifestyle
+creator_9,,upsell,2023-10-01,-3.18,Personal Development
+creator_20,E-book,new,2023-08-01,41.35,Personal Development
+creator_17,Template Pack,new,2023-01-01,unknown,Career
+creator_12,1-on-1 Coaching,new,2023-11-01,52.11,Fitness
+creator_15,E-book,upsell,2023-12-01,36.55,Fitness
+creator_9,Template Pack,renewal,2024-04-01,41.38,Fitness
+creator_8,Template Pack,new,2023-05-01,81.83,Finance
+creator_13,Online Course,upsell,2023-09-01,62.86,Wellness
+creator_8,1-on-1 Coaching,renewal,2023-02-01,39.44,Finance
+creator_10,Template Pack,renewal,2023-11-01,38.44,Personal Development
+creator_19,E-book,new,2023-09-01,41.67,Wellness
+creator_14,Template Pack,upsell,2024-05-01,43.25,Productivity
+creator_14,E-book,upsell,2023-08-01,20.25,Finance
+creator_6,E-book,new,2023-10-01,47.56,Finance
+creator_8,1-on-1 Coaching,upsell,2023-01-01,25.36,Career
+creator_16,1-on-1 Coaching,upsell,2024-06-01,37.52,Fitness
+creator_17,Template Pack,renewal,2023-03-01,25.44,Fitness
+creator_20,Online Course,new,2023-02-01,58.89,Wellness
+creator_6,Template Pack,new,2024-05-01,61.86,Finance
+creator_4,E-book,renewal,2023-07-01,12.92,Fitness
+creator_12,Membership,new,2023-12-01,32.77,Finance
+creator_9,1-on-1 Coaching,new,2023-09-01,66.41,Personal Development
+creator_4,E-book,new,2024-03-01,unknown,Productivity
+creator_20,1-on-1 Coaching,upsell,2023-10-01,34.62,Fitness
+creator_16,,renewal,2023-09-01,38.88,Business
+creator_5,Template Pack,new,2023-07-01,33.4,Productivity
+creator_16,Membership,upsell,2023-07-01,38.8,Fitness
+creator_5,Online Course,renewal,2023-08-01,30.2,Business
+creator_8,E-book,renewal,2023-04-01,10.43,Business
+creator_13,1-on-1 Coaching,renewal,2024-01-01,42.27,Fitness
+creator_20,E-book,renewal,2023-07-01,65.46,Productivity
+creator_15,Online Course,renewal,2023-04-01,20.61,Career
+creator_8,E-book,upsell,2023-08-01,24.96,Wellness
+creator_14,Template Pack,renewal,2024-01-01,7.23,Business
+creator_14,Online Course,renewal,2023-04-01,11.24,Fitness
+creator_11,Membership,renewal,2023-09-01,30.28,Career
+creator_12,Membership,upsell,2023-02-01,8.63,Career
+creator_15,Template Pack,new,2023-02-01,57.7,Career
+creator_4,Template Pack,renewal,2023-02-01,42.85,Personal Development
+creator_18,Online Course,upsell,2023-04-01,23.4,Productivity
+creator_6,Membership,renewal,2023-03-01,56.97,Business
+creator_14,Membership,upsell,2024-01-01,30.85,Fitness
+creator_17,E-book,renewal,2023-11-01,32.26,Career
+creator_10,Template Pack,renewal,2024-03-01,20.3,Wellness
+creator_10,Membership,new,2023-08-01,36.0,Wellness
+creator_15,1-on-1 Coaching,renewal,2024-03-01,32.8,Beauty/Lifestyle
+creator_6,Membership,upsell,2023-09-01,45.15,Career
+creator_8,Online Course,new,2023-10-01,39.37,Wellness
+creator_2,1-on-1 Coaching,new,2023-01-01,56.95,Business
+creator_15,Online Course,upsell,2023-01-01,17.3,Productivity
+creator_5,Membership,upsell,2024-05-01,unknown,Productivity
+creator_16,Template Pack,upsell,2023-07-01,42.99,Fitness
+creator_1,1-on-1 Coaching,renewal,2023-04-01,20.23,Wellness
+creator_2,Membership,renewal,2023-02-01,42.61,Finance
+creator_19,1-on-1 Coaching,new,2023-10-01,28.46,Wellness
+creator_2,Online Course,renewal,2023-03-01,12.16,Beauty/Lifestyle
+creator_9,E-book,upsell,2024-06-01,51.66,Finance
+creator_3,1-on-1 Coaching,upsell,2024-01-01,19.08,Beauty/Lifestyle
+creator_20,Online Course,renewal,2023-01-01,35.89,Career
+creator_5,1-on-1 Coaching,renewal,2023-08-01,11.83,Career
+creator_1,E-book,upsell,2024-02-01,17.04,Fitness
+creator_4,Template Pack,new,2023-07-01,unknown,Beauty/Lifestyle
+creator_4,1-on-1 Coaching,renewal,2023-12-01,14.12,Fitness
+creator_9,E-book,new,2023-09-01,56.86,Business
+creator_4,Template Pack,new,2023-02-01,36.14,Wellness
+creator_13,Online Course,renewal,2023-09-01,47.23,Finance
+creator_15,E-book,renewal,2024-04-01,29.32,Finance
+creator_19,Template Pack,new,2023-11-01,52.9,Fitness
+creator_2,1-on-1 Coaching,upsell,2024-03-01,-0.38,Wellness
+creator_16,Online Course,upsell,2024-06-01,41.51,Productivity
+creator_7,Online Course,new,2023-05-01,44.49,Finance
+creator_9,E-book,renewal,2024-05-01,26.54,Productivity
+creator_13,1-on-1 Coaching,renewal,2024-03-01,19.98,Wellness
+creator_4,Template Pack,renewal,2024-05-01,37.61,Productivity
+creator_1,Membership,upsell,2023-04-01,54.63,Business
+creator_9,Template Pack,new,2024-01-01,60.8,Beauty/Lifestyle
+creator_13,E-book,new,2023-11-01,24.45,Career
+creator_7,1-on-1 Coaching,renewal,2023-04-01,57.01,Career
+creator_12,E-book,new,2023-10-01,45.97,Fitness
+creator_14,,upsell,2023-03-01,43.26,Business
+creator_2,E-book,upsell,2024-06-01,17.24,Finance
+creator_11,Membership,new,2023-10-01,51.15,Fitness
+creator_14,E-book,upsell,2023-01-01,50.12,Fitness
+creator_12,E-book,renewal,2024-03-01,33.02,Career
+creator_15,Online Course,new,2023-06-01,43.77,Wellness
+creator_15,E-book,upsell,2024-04-01,66.6,Finance
+creator_7,E-book,new,2023-12-01,43.48,Fitness
+creator_17,Template Pack,upsell,2023-02-01,14.91,Finance
+creator_14,Template Pack,renewal,2023-09-01,26.21,Beauty/Lifestyle
+creator_4,Membership,renewal,2023-07-01,74.78,Wellness
+creator_6,Membership,new,2023-12-01,17.71,Finance
+creator_7,E-book,new,2023-04-01,41.54,Productivity
+creator_10,Template Pack,new,2023-02-01,34.33,Fitness
+creator_7,Template Pack,renewal,2023-10-01,33.51,Productivity
+creator_16,Template Pack,renewal,2024-06-01,21.11,Wellness
+creator_12,Membership,new,2023-05-01,50.08,Business
+creator_5,E-book,upsell,2023-11-01,52.54,Productivity
+creator_19,E-book,new,2024-02-01,46.8,Fitness
+creator_14,Membership,upsell,2023-02-01,33.8,Fitness
+creator_15,Template Pack,new,2023-04-01,33.78,Career
+creator_7,1-on-1 Coaching,renewal,2023-07-01,33.46,Wellness
+creator_11,,renewal,2024-03-01,35.21,Career
+creator_5,Online Course,new,2023-05-01,39.87,Fitness
+creator_17,Membership,upsell,2023-06-01,33.59,Beauty/Lifestyle
+creator_8,1-on-1 Coaching,renewal,2023-09-01,34.67,Fitness
+creator_20,Template Pack,renewal,2023-03-01,7.27,Career
+creator_14,E-book,upsell,2023-08-01,32.7,Career
+creator_9,E-book,upsell,2024-02-01,35.9,Wellness
+creator_9,Template Pack,upsell,2024-02-01,16.54,Business
+creator_9,E-book,new,2023-09-01,60.35,Beauty/Lifestyle
+creator_6,Membership,renewal,2023-03-01,49.17,Personal Development
+creator_15,Online Course,new,2023-01-01,63.04,Fitness
+creator_4,Template Pack,new,2024-05-01,64.45,Business
+creator_3,Membership,new,2023-09-01,42.45,Wellness
+creator_9,Template Pack,new,2024-06-01,unknown,Finance
+creator_19,Template Pack,renewal,2024-05-01,29.48,Business
+creator_20,Online Course,new,2024-06-01,71.77,Fitness
+creator_9,E-book,upsell,2023-05-01,19.85,Business
+creator_4,E-book,upsell,2023-04-01,unknown,Productivity
+creator_2,Online Course,new,2024-05-01,54.52,Career
+creator_1,,upsell,2023-01-01,28.79,Career
+creator_9,E-book,new,2024-05-01,unknown,Fitness
+creator_15,1-on-1 Coaching,new,2023-07-01,47.04,Productivity
+creator_20,1-on-1 Coaching,renewal,2023-04-01,37.74,Beauty/Lifestyle
+creator_13,Template Pack,new,2024-05-01,58.41,Career
+creator_3,E-book,upsell,2024-05-01,42.31,Wellness
+creator_10,Online Course,renewal,2024-05-01,47.23,Career
+creator_9,Membership,renewal,2024-05-01,19.42,Personal Development
+creator_19,1-on-1 Coaching,new,2024-06-01,38.23,Beauty/Lifestyle
+creator_8,Online Course,upsell,2024-05-01,34.86,Personal Development
+creator_6,E-book,upsell,2023-01-01,49.76,Personal Development
+creator_9,Membership,new,2023-03-01,62.58,Wellness
+creator_9,Membership,upsell,2023-04-01,41.35,Productivity
+creator_11,Template Pack,renewal,2023-04-01,52.22,Personal Development
+creator_6,E-book,upsell,2023-05-01,25.79,Beauty/Lifestyle
+creator_3,1-on-1 Coaching,upsell,2023-12-01,20.38,Career
+creator_17,E-book,renewal,2024-03-01,14.82,Fitness
+creator_11,Template Pack,upsell,2024-03-01,29.07,Beauty/Lifestyle
+creator_16,1-on-1 Coaching,new,2023-08-01,64.39,Business
+creator_20,Online Course,new,2023-01-01,31.59,Career
+creator_9,Membership,new,2024-06-01,48.45,Wellness
+creator_19,E-book,renewal,2023-01-01,31.15,Personal Development
+creator_3,Template Pack,new,2023-07-01,69.12,Fitness
+creator_11,E-book,renewal,2023-07-01,38.69,Personal Development
+creator_11,E-book,renewal,2023-09-01,17.47,Wellness
+creator_15,Online Course,renewal,2024-02-01,50.34,Beauty/Lifestyle
+creator_1,1-on-1 Coaching,renewal,2023-08-01,35.57,Business
+creator_17,1-on-1 Coaching,renewal,2023-09-01,29.9,Career
+creator_1,Template Pack,upsell,2024-06-01,22.6,Beauty/Lifestyle
+creator_6,Online Course,upsell,2023-09-01,28.03,Business
+creator_15,Membership,upsell,2023-11-01,11.12,Finance
+creator_14,Membership,renewal,2024-01-01,35.2,Personal Development
+creator_8,Template Pack,renewal,2024-01-01,42.0,Career
+creator_11,Membership,new,2023-10-01,73.9,Career
+creator_2,Online Course,new,2023-11-01,40.62,Business
+creator_8,E-book,renewal,2023-01-01,46.29,Finance
+creator_9,E-book,renewal,2024-05-01,41.86,Fitness
+creator_6,Template Pack,upsell,2023-07-01,30.42,Productivity
+creator_15,Template Pack,upsell,2023-01-01,36.06,Fitness
+creator_17,1-on-1 Coaching,renewal,2023-08-01,29.71,Career
+creator_4,E-book,upsell,2023-04-01,32.58,Career
+creator_10,1-on-1 Coaching,upsell,2023-03-01,3.32,Wellness
+creator_19,Online Course,renewal,2024-03-01,26.63,Business
+creator_10,Online Course,renewal,2023-05-01,29.01,Finance
+creator_5,1-on-1 Coaching,upsell,2023-08-01,13.62,Productivity
+creator_15,Membership,renewal,2023-06-01,36.48,Fitness
+creator_15,1-on-1 Coaching,new,2024-03-01,46.11,Business
+creator_13,E-book,upsell,2024-05-01,27.1,Beauty/Lifestyle
+creator_6,Membership,renewal,2023-04-01,39.14,Wellness
+creator_7,Online Course,upsell,2023-11-01,31.01,Finance
+creator_17,Membership,new,2023-05-01,43.03,Wellness
+creator_10,Online Course,renewal,2024-04-01,54.23,Career
+creator_6,Online Course,new,2023-10-01,60.73,Wellness
+creator_10,,upsell,2023-02-01,7.82,Productivity
+creator_17,Online Course,renewal,2023-07-01,30.9,Career
+creator_9,1-on-1 Coaching,upsell,2023-12-01,25.19,Fitness
+creator_15,Template Pack,renewal,2023-10-01,7.29,Fitness
+creator_9,1-on-1 Coaching,new,2024-02-01,54.71,Beauty/Lifestyle
+creator_2,Membership,new,2023-10-01,58.15,Career
+creator_4,E-book,new,2023-01-01,51.0,Career
+creator_9,Online Course,new,2024-03-01,75.66,Finance
+creator_19,Membership,renewal,2023-10-01,43.97,Career
+creator_1,E-book,renewal,2023-08-01,5.59,Productivity
+creator_19,1-on-1 Coaching,new,2024-01-01,71.31,Beauty/Lifestyle
+creator_7,Online Course,renewal,2023-10-01,30.57,Finance
+creator_1,,new,2023-08-01,62.75,Productivity
+creator_18,Template Pack,upsell,2023-01-01,28.75,Wellness
+creator_17,Membership,renewal,2024-04-01,11.86,Fitness
+creator_4,Template Pack,upsell,2023-03-01,5.9,Beauty/Lifestyle
+creator_3,Template Pack,new,2024-03-01,49.18,Personal Development
+creator_9,Template Pack,new,2023-01-01,43.22,Fitness
+creator_8,Template Pack,upsell,2023-07-01,34.21,Business
+creator_10,Online Course,upsell,2024-05-01,41.91,Fitness
+creator_8,E-book,upsell,2023-07-01,51.84,Fitness
+creator_16,Template Pack,renewal,2023-06-01,55.45,Career
+creator_18,Membership,renewal,2023-06-01,32.26,Productivity
+creator_8,Membership,new,2023-12-01,42.62,Career
+creator_4,Template Pack,new,2024-03-01,67.6,Career
+creator_10,Template Pack,upsell,2023-05-01,unknown,Personal Development
+creator_10,E-book,upsell,2024-03-01,59.89,Personal Development
+creator_7,,renewal,2023-11-01,57.57,Beauty/Lifestyle
+creator_17,1-on-1 Coaching,new,2024-03-01,66.37,Career
+creator_13,Template Pack,upsell,2023-09-01,52.31,Personal Development
+creator_5,1-on-1 Coaching,upsell,2024-05-01,40.07,Finance
+creator_20,E-book,new,2023-06-01,unknown,Finance
+creator_11,E-book,renewal,2023-07-01,6.53,Beauty/Lifestyle
+creator_5,Online Course,upsell,2023-11-01,45.34,Finance
+creator_5,E-book,renewal,2023-02-01,37.5,Beauty/Lifestyle
+creator_2,Template Pack,upsell,2023-08-01,21.11,Business
+creator_3,E-book,renewal,2023-05-01,58.71,Personal Development
+creator_17,E-book,new,2023-10-01,54.82,Career
+creator_8,Online Course,upsell,2023-06-01,22.25,Beauty/Lifestyle
+creator_13,Online Course,renewal,2023-04-01,56.58,Beauty/Lifestyle
+creator_17,E-book,upsell,2023-01-01,21.0,Productivity
+creator_14,1-on-1 Coaching,upsell,2023-01-01,1.6,Career
+creator_1,E-book,new,2023-04-01,45.51,Business
+creator_19,Membership,renewal,2023-02-01,26.57,Productivity
+creator_14,Online Course,new,2023-09-01,unknown,Personal Development
+creator_16,Membership,new,2023-04-01,23.36,Wellness
+creator_4,Template Pack,new,2023-08-01,unknown,Career
+creator_11,,upsell,2023-01-01,25.42,Wellness
+creator_17,E-book,upsell,2024-06-01,7.46,Career
+creator_5,1-on-1 Coaching,renewal,2023-11-01,26.86,Business
+creator_14,Online Course,upsell,2023-11-01,45.36,Productivity
+creator_2,Membership,new,2023-04-01,34.44,Beauty/Lifestyle
+creator_20,Membership,new,2024-01-01,57.0,Productivity
+creator_15,Online Course,renewal,2023-09-01,34.54,Wellness
+creator_19,E-book,renewal,2024-06-01,49.61,Career
+creator_12,E-book,renewal,2023-07-01,44.94,Fitness
+creator_12,1-on-1 Coaching,upsell,2024-02-01,30.42,Personal Development
+creator_18,1-on-1 Coaching,upsell,2024-06-01,20.74,Beauty/Lifestyle
+creator_15,Membership,renewal,2024-04-01,43.04,Wellness
+creator_18,Template Pack,renewal,2023-08-01,39.44,Personal Development
+creator_14,1-on-1 Coaching,new,2024-02-01,50.29,Beauty/Lifestyle
+creator_6,Membership,renewal,2023-05-01,12.06,Personal Development
+creator_19,1-on-1 Coaching,renewal,2023-11-01,34.06,Career
+creator_16,Online Course,renewal,2023-11-01,13.45,Business
+creator_1,E-book,new,2023-09-01,38.0,Wellness
+creator_1,Template Pack,upsell,2023-09-01,37.56,Finance
+creator_13,Membership,upsell,2023-09-01,29.75,Fitness
+creator_5,Membership,new,2024-06-01,34.96,Finance
+creator_9,Membership,upsell,2023-11-01,31.94,Wellness
+creator_19,,new,2023-05-01,58.34,Beauty/Lifestyle
+creator_14,Membership,renewal,2023-09-01,-3.7,Wellness
+creator_19,1-on-1 Coaching,new,2023-04-01,56.15,Wellness
+creator_11,E-book,renewal,2024-02-01,11.21,Career
+creator_6,,renewal,2024-01-01,35.24,Productivity
+creator_20,Membership,new,2023-05-01,50.36,Fitness
+creator_3,1-on-1 Coaching,renewal,2023-04-01,32.75,Business
+creator_17,1-on-1 Coaching,upsell,2023-08-01,30.68,Business
+creator_3,Template Pack,upsell,2023-10-01,17.54,Personal Development
+creator_14,E-book,renewal,2023-09-01,28.88,Business
+creator_18,,renewal,2023-01-01,35.66,Fitness
+creator_10,Online Course,renewal,2023-10-01,unknown,Personal Development
+creator_13,Template Pack,new,2024-05-01,40.31,Personal Development
+creator_7,E-book,renewal,2023-03-01,51.8,Beauty/Lifestyle
+creator_15,Template Pack,new,2023-04-01,62.11,Productivity
+creator_20,Online Course,new,2024-01-01,62.19,Finance
+creator_15,Online Course,new,2024-03-01,64.59,Beauty/Lifestyle
+creator_1,1-on-1 Coaching,upsell,2023-12-01,18.24,Productivity
+creator_8,Template Pack,renewal,2023-01-01,10.32,Productivity
+creator_17,Membership,new,2023-01-01,58.9,Productivity
+creator_15,1-on-1 Coaching,upsell,2023-05-01,45.8,Wellness
+creator_11,E-book,renewal,2023-09-01,44.27,Beauty/Lifestyle
+creator_9,1-on-1 Coaching,new,2024-03-01,56.33,Finance
+creator_11,,renewal,2024-01-01,33.36,Career
+creator_19,1-on-1 Coaching,renewal,2023-02-01,31.29,Productivity
+creator_9,Template Pack,renewal,2024-04-01,35.8,Finance
+creator_17,Online Course,upsell,2024-05-01,43.74,Career
+creator_9,Membership,upsell,2024-02-01,39.76,Fitness
+creator_10,1-on-1 Coaching,renewal,2024-05-01,42.88,Career
+creator_18,E-book,renewal,2023-08-01,36.85,Fitness
+creator_3,,renewal,2023-10-01,26.11,Business
+creator_10,Online Course,renewal,2024-02-01,24.41,Career
+creator_16,Online Course,renewal,2023-10-01,29.59,Fitness
+creator_13,1-on-1 Coaching,new,2023-06-01,42.33,Productivity
+creator_15,1-on-1 Coaching,renewal,2024-02-01,17.62,Wellness
+creator_5,Online Course,renewal,2024-05-01,-2.98,Career
+creator_20,E-book,upsell,2023-04-01,19.5,Personal Development
+creator_2,1-on-1 Coaching,renewal,2024-01-01,17.35,Fitness
+creator_17,,new,2023-03-01,60.29,Beauty/Lifestyle
+creator_15,1-on-1 Coaching,upsell,2024-05-01,22.4,Fitness
+creator_17,Membership,upsell,2024-06-01,39.19,Career
+creator_1,Membership,upsell,2024-04-01,38.73,Fitness
+creator_7,E-book,renewal,2024-04-01,36.93,Finance
+creator_5,Online Course,upsell,2024-05-01,35.2,Beauty/Lifestyle
+creator_12,1-on-1 Coaching,upsell,2023-08-01,27.49,Career
+creator_10,Template Pack,renewal,2024-02-01,27.86,Wellness
+creator_8,Online Course,upsell,2023-06-01,26.31,Finance
+creator_11,Template Pack,renewal,2023-12-01,36.13,Beauty/Lifestyle
+creator_7,E-book,renewal,2023-07-01,46.09,Personal Development
+creator_2,1-on-1 Coaching,upsell,2023-01-01,8.91,Fitness
+creator_7,Online Course,new,2023-11-01,44.19,Fitness
+creator_20,E-book,new,2024-03-01,66.45,Business
+creator_20,Template Pack,upsell,2023-06-01,6.99,Beauty/Lifestyle
+creator_15,,renewal,2023-01-01,38.9,Fitness
+creator_6,Online Course,renewal,2023-09-01,21.16,Business
+creator_20,Online Course,upsell,2023-06-01,50.88,Business
+creator_8,E-book,new,2024-06-01,50.28,Career
+creator_1,Membership,new,2023-08-01,49.88,Fitness
+creator_10,E-book,new,2024-04-01,43.05,Finance
+creator_16,Online Course,new,2023-03-01,41.35,Personal Development
+creator_8,E-book,upsell,2024-05-01,30.31,Finance
+creator_11,E-book,renewal,2024-05-01,29.01,Finance
+creator_12,Membership,upsell,2023-02-01,8.63,Fitness
+creator_12,Online Course,upsell,2023-07-01,32.91,Productivity
+creator_5,1-on-1 Coaching,new,2023-04-01,53.92,Wellness
+creator_3,Online Course,upsell,2024-01-01,4.35,Business
+creator_11,Online Course,upsell,2023-07-01,37.1,Fitness
+creator_2,E-book,renewal,2023-03-01,28.83,Career
+creator_19,Template Pack,upsell,2023-09-01,29.86,Business
+creator_9,1-on-1 Coaching,upsell,2023-09-01,53.01,Personal Development
+creator_3,Template Pack,new,2023-11-01,25.18,Productivity
+creator_7,1-on-1 Coaching,renewal,2023-05-01,33.37,Wellness
+creator_12,Template Pack,renewal,2024-06-01,21.26,Fitness
+creator_11,Template Pack,new,2023-09-01,49.62,Personal Development
+creator_17,Membership,new,2023-12-01,39.96,Beauty/Lifestyle
+creator_9,Template Pack,upsell,2023-07-01,46.51,Productivity
+creator_18,Membership,renewal,2023-04-01,25.17,Finance
+creator_1,E-book,upsell,2023-10-01,11.23,Productivity
+creator_10,Online Course,renewal,2023-12-01,24.99,Personal Development
+creator_4,Online Course,renewal,2023-10-01,21.64,Fitness
+creator_4,E-book,upsell,2023-04-01,23.2,Productivity
+creator_4,Template Pack,upsell,2024-02-01,unknown,Fitness
+creator_3,E-book,new,2023-11-01,66.46,Career
+creator_3,Template Pack,new,2023-05-01,28.28,Fitness
+creator_9,,renewal,2024-05-01,29.71,Personal Development
+creator_20,1-on-1 Coaching,new,2023-05-01,66.76,Wellness
+creator_14,Membership,new,2023-04-01,49.16,Career
+creator_4,1-on-1 Coaching,renewal,2024-02-01,25.93,Wellness
+creator_20,Template Pack,new,2024-06-01,76.93,Productivity
+creator_4,Online Course,upsell,2024-05-01,21.54,Finance
+creator_19,Online Course,renewal,2024-03-01,25.5,Beauty/Lifestyle
+creator_18,Membership,new,2024-04-01,50.61,Personal Development
+creator_10,Online Course,upsell,2023-08-01,34.22,Wellness
+creator_2,Membership,upsell,2023-11-01,47.84,Beauty/Lifestyle
+creator_10,E-book,upsell,2024-02-01,-6.36,Business
+creator_16,1-on-1 Coaching,new,2024-05-01,59.02,Fitness
+creator_11,Online Course,upsell,2024-02-01,54.64,Wellness
+creator_2,1-on-1 Coaching,upsell,2023-02-01,30.72,Career
+creator_6,E-book,new,2023-07-01,38.8,Personal Development
+creator_8,E-book,new,2023-04-01,79.94,Fitness
+creator_1,Membership,new,2023-05-01,52.33,Beauty/Lifestyle
+creator_2,1-on-1 Coaching,upsell,2023-07-01,18.72,Personal Development
+creator_17,E-book,renewal,2023-12-01,40.29,Wellness
+creator_8,Membership,new,2023-11-01,79.38,Finance
+creator_18,Template Pack,new,2024-05-01,29.6,Career
+creator_10,Membership,renewal,2023-09-01,55.04,Business
+creator_10,Online Course,new,2023-02-01,61.36,Personal Development
+creator_4,Membership,renewal,2024-01-01,38.56,Finance
+creator_16,Membership,renewal,2023-11-01,8.79,Wellness
+creator_1,Online Course,upsell,2023-12-01,30.32,Career
+creator_4,Membership,renewal,2023-07-01,1.08,Fitness
+creator_18,E-book,renewal,2023-09-01,41.56,Beauty/Lifestyle
+creator_11,Template Pack,renewal,2023-07-01,51.62,Wellness
+creator_17,Template Pack,renewal,2024-05-01,44.74,Productivity
+creator_13,1-on-1 Coaching,renewal,2024-01-01,35.72,Business
+creator_4,Membership,new,2023-02-01,60.98,Business
+creator_10,Template Pack,new,2023-01-01,60.66,Fitness
+creator_4,E-book,new,2023-08-01,61.73,Career
+creator_1,1-on-1 Coaching,renewal,2024-04-01,5.76,Wellness
+creator_4,E-book,upsell,2023-05-01,29.48,Wellness
+creator_12,Membership,new,2023-10-01,55.5,Finance
+creator_9,Membership,renewal,2024-05-01,20.94,Productivity
+creator_4,Membership,upsell,2023-08-01,46.9,Beauty/Lifestyle
+creator_5,Online Course,renewal,2023-04-01,unknown,Career
+creator_19,E-book,new,2024-02-01,53.36,Personal Development
+creator_17,1-on-1 Coaching,renewal,2023-01-01,34.21,Beauty/Lifestyle
+creator_11,Online Course,new,2023-12-01,35.36,Productivity
+creator_2,E-book,upsell,2024-04-01,26.73,Beauty/Lifestyle
+creator_20,Membership,renewal,2023-06-01,18.65,Wellness
+creator_12,Membership,new,2023-10-01,71.8,Career
+creator_1,E-book,renewal,2023-01-01,53.07,Beauty/Lifestyle
+creator_5,Online Course,upsell,2023-02-01,33.21,Fitness
+creator_7,E-book,renewal,2023-03-01,62.85,Business
+creator_18,1-on-1 Coaching,new,2023-06-01,76.08,Personal Development
+creator_10,1-on-1 Coaching,upsell,2024-06-01,44.12,Finance
+creator_17,1-on-1 Coaching,new,2024-02-01,48.64,Career
+creator_16,Online Course,renewal,2023-08-01,45.17,Career
+creator_2,E-book,renewal,2023-05-01,6.03,Finance
+creator_11,Template Pack,new,2024-04-01,31.28,Personal Development
+creator_17,1-on-1 Coaching,renewal,2024-04-01,12.13,Wellness
+creator_17,Template Pack,upsell,2023-04-01,31.88,Personal Development
+creator_14,Template Pack,renewal,2023-06-01,42.19,Personal Development
+creator_12,Membership,renewal,2023-05-01,18.61,Business
+creator_17,Template Pack,new,2023-03-01,41.84,Beauty/Lifestyle
+creator_17,Membership,renewal,2023-03-01,10.6,Fitness
+creator_16,1-on-1 Coaching,upsell,2023-02-01,53.31,Finance
+creator_13,Online Course,renewal,2023-07-01,39.75,Wellness
+creator_7,Membership,new,2024-06-01,53.53,Career
+creator_2,E-book,upsell,2023-09-01,29.65,Wellness
+creator_16,1-on-1 Coaching,renewal,2024-03-01,37.18,Finance
+creator_4,1-on-1 Coaching,upsell,2024-03-01,29.27,Business
+creator_14,1-on-1 Coaching,renewal,2023-03-01,26.06,Business
+creator_17,Online Course,upsell,2023-07-01,32.0,Personal Development
+creator_18,,new,2024-06-01,53.05,Finance
+creator_8,E-book,renewal,2023-07-01,32.54,Productivity
+creator_7,E-book,renewal,2023-03-01,21.8,Finance
+creator_16,Online Course,upsell,2024-01-01,11.19,Wellness
+creator_17,Membership,new,2023-07-01,47.38,Finance
+creator_18,Membership,upsell,2024-05-01,60.15,Finance
+creator_5,1-on-1 Coaching,renewal,2024-06-01,43.16,Finance
+creator_18,1-on-1 Coaching,upsell,2024-04-01,55.53,Personal Development
+creator_2,E-book,new,2024-03-01,46.14,Productivity
+creator_5,Membership,upsell,2024-03-01,10.76,Business
+creator_15,Membership,renewal,2023-08-01,36.39,Fitness
+creator_4,Template Pack,renewal,2023-02-01,24.72,Productivity
+creator_11,E-book,new,2023-07-01,42.89,Productivity
+creator_15,Online Course,new,2024-05-01,48.52,Fitness
+creator_12,Membership,new,2023-12-01,55.94,Productivity
+creator_15,Online Course,renewal,2023-05-01,17.94,Wellness
+creator_12,Template Pack,new,2023-06-01,54.89,Business
+creator_4,Membership,new,2023-07-01,61.16,Productivity
+creator_14,1-on-1 Coaching,new,2024-03-01,40.19,Business
+creator_11,Online Course,renewal,2024-02-01,5.77,Personal Development
+creator_3,Template Pack,upsell,2023-04-01,34.84,Finance
+creator_11,1-on-1 Coaching,new,2023-08-01,42.44,Personal Development
+creator_3,,renewal,2023-03-01,32.99,Business
+creator_10,Template Pack,renewal,2024-03-01,35.91,Productivity
+creator_3,E-book,upsell,2024-04-01,41.68,Fitness
+creator_3,E-book,renewal,2023-12-01,40.23,Business
+creator_6,Membership,upsell,2023-06-01,36.15,Productivity
+creator_6,Membership,upsell,2024-06-01,38.21,Beauty/Lifestyle
+creator_13,1-on-1 Coaching,renewal,2023-05-01,17.59,Wellness
+creator_15,1-on-1 Coaching,renewal,2024-05-01,47.6,Wellness
+creator_5,Membership,new,2023-12-01,50.23,Career
+creator_5,Membership,new,2023-06-01,18.17,Career
+creator_12,Online Course,renewal,2023-06-01,29.53,Personal Development
+creator_13,E-book,upsell,2023-07-01,29.62,Wellness
+creator_4,Online Course,renewal,2023-06-01,15.64,Career
+creator_4,,new,2023-01-01,40.21,Finance
+creator_15,E-book,new,2023-04-01,50.73,Business
+creator_9,Online Course,renewal,2024-03-01,36.0,Fitness
+creator_15,Membership,upsell,2023-06-01,44.46,Career
+creator_15,1-on-1 Coaching,renewal,2023-08-01,34.31,Business
+creator_5,E-book,renewal,2024-03-01,33.36,Business
+creator_18,Online Course,renewal,2023-11-01,26.21,Career
+creator_7,Online Course,upsell,2023-01-01,12.78,Beauty/Lifestyle
+creator_17,Membership,new,2023-03-01,43.56,Beauty/Lifestyle
+creator_8,Template Pack,new,2023-05-01,57.71,Wellness
+creator_18,Membership,upsell,2023-04-01,26.94,Career
+creator_15,Template Pack,upsell,2024-04-01,25.55,Career
+creator_14,Online Course,new,2023-04-01,70.33,Wellness
+creator_10,1-on-1 Coaching,new,2024-06-01,52.13,Wellness
+creator_16,Online Course,upsell,2023-02-01,24.5,Personal Development
+creator_16,1-on-1 Coaching,renewal,2023-10-01,42.34,Productivity
+creator_20,Online Course,upsell,2023-03-01,23.89,Wellness
+creator_11,Membership,upsell,2023-03-01,40.4,Productivity
+creator_14,Template Pack,new,2024-01-01,39.94,Fitness
+creator_20,Online Course,upsell,2023-10-01,27.93,Personal Development
+creator_8,Template Pack,upsell,2024-04-01,43.53,Beauty/Lifestyle
+creator_10,E-book,new,2024-06-01,60.19,Fitness
+creator_14,E-book,upsell,2024-01-01,22.96,Career
+creator_10,E-book,new,2023-11-01,25.89,Beauty/Lifestyle
+creator_17,Template Pack,new,2023-07-01,90.4,Wellness
+creator_9,Membership,renewal,2023-02-01,27.2,Wellness
+creator_7,1-on-1 Coaching,upsell,2023-10-01,33.51,Finance
+creator_6,1-on-1 Coaching,renewal,2024-05-01,53.79,Beauty/Lifestyle
+creator_16,1-on-1 Coaching,upsell,2023-05-01,-2.3,Career
+creator_8,Online Course,upsell,2023-02-01,17.94,Finance
+creator_18,Membership,renewal,2023-10-01,31.04,Beauty/Lifestyle
+creator_18,Online Course,upsell,2023-08-01,33.04,Personal Development
+creator_12,Membership,new,2023-10-01,41.77,Career
+creator_12,,upsell,2023-01-01,27.71,Beauty/Lifestyle
+creator_9,Membership,new,2023-10-01,28.87,Beauty/Lifestyle
+creator_10,Membership,upsell,2024-03-01,34.07,Wellness
+creator_10,Membership,upsell,2023-07-01,60.94,Personal Development
+creator_6,Template Pack,renewal,2023-02-01,9.5,Beauty/Lifestyle
+creator_19,Membership,new,2023-01-01,49.28,Personal Development
+creator_16,Online Course,new,2023-12-01,62.61,Fitness
+creator_20,E-book,upsell,2024-04-01,34.28,Personal Development
+creator_9,Membership,upsell,2023-10-01,45.49,Productivity
+creator_7,,upsell,2023-04-01,-14.11,Career
+creator_10,Online Course,renewal,2023-07-01,33.84,Wellness
+creator_16,1-on-1 Coaching,upsell,2023-09-01,33.12,Wellness
+creator_5,Online Course,new,2023-11-01,62.31,Wellness
+creator_2,Template Pack,renewal,2024-01-01,31.53,Wellness
+creator_19,E-book,renewal,2023-02-01,46.14,Beauty/Lifestyle
+creator_9,Membership,upsell,2023-03-01,15.5,Wellness
+creator_7,Membership,upsell,2023-05-01,unknown,Personal Development
+creator_7,Membership,upsell,2024-06-01,23.01,Productivity
+creator_18,Membership,renewal,2023-12-01,39.21,Business
+creator_6,Template Pack,renewal,2023-08-01,37.24,Personal Development
+creator_13,1-on-1 Coaching,new,2023-05-01,50.84,Wellness
+creator_13,Online Course,new,2023-03-01,71.16,Beauty/Lifestyle
+creator_18,Online Course,upsell,2023-01-01,47.41,Personal Development
+creator_3,Membership,renewal,2023-04-01,32.86,Beauty/Lifestyle
+creator_14,Online Course,new,2023-04-01,37.95,Business
+creator_19,E-book,renewal,2023-11-01,31.8,Fitness
+creator_12,Membership,upsell,2023-12-01,36.41,Fitness
+creator_15,Online Course,upsell,2024-05-01,25.57,Personal Development
+creator_2,E-book,upsell,2024-01-01,29.23,Wellness
+creator_7,Template Pack,new,2023-08-01,38.25,Finance
+creator_4,1-on-1 Coaching,new,2023-03-01,53.82,Productivity
+creator_3,1-on-1 Coaching,upsell,2023-11-01,46.48,Career
+creator_6,Online Course,renewal,2024-02-01,14.78,Finance
+creator_17,Membership,renewal,2023-04-01,60.35,Wellness
+creator_10,1-on-1 Coaching,upsell,2024-02-01,8.92,Personal Development
+creator_8,Template Pack,upsell,2023-07-01,45.8,Personal Development
+creator_12,E-book,upsell,2024-03-01,36.66,Wellness
